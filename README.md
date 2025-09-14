@@ -33,6 +33,9 @@ HotelsTripster enables users to:
 Sorry. There is no demo for this project but you can check Preview photos or you can try this project on local.
 
 ## Preview  
+<img width="1920" height="919" alt="image" src="https://github.com/user-attachments/assets/632a7f4f-d212-4850-bf39-665bb984432f" />
+<img width="1920" height="919" alt="image" src="https://github.com/user-attachments/assets/b146f7a3-5e34-42de-958a-ca2d4e4b88cd" />
+<img width="1920" height="919" alt="image" src="https://github.com/user-attachments/assets/665a9c8c-19ca-4a18-a9d6-ba828d6a3d17" />
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Wrench.png" alt="Wrench" width="25" height="25" /> Installation 
 ```bash
