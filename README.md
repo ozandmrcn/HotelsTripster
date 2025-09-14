@@ -58,7 +58,7 @@ cd .\HotelsTripster\backend
 npm run start
 ```
 ### Setup NOTES:  
-> ⚠️ This project requires a backend or mock API for hotel data (you can use backand folder or custom API).
+> ⚠️ This project requires a backend or mock API for hotel data (you can use backend folder or custom API).
 > ⚠️ Start the app with:
 > `npm run dev`
 
