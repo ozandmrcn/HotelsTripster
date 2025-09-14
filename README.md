@@ -51,7 +51,7 @@ npm install
 # Run development server
 npm run dev
 
-# Open new terminal in .\HotelsTripster\backend
+# Open new terminal and navigate to the project's backend folder
 cd .\HotelsTripster\backend
 
 # Run backend server
